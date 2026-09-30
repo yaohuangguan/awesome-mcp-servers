@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-[![Servers](https://img.shields.io/badge/servers-163-brightgreen)](#catalog)
+[![Servers](https://img.shields.io/badge/servers-164-brightgreen)](#catalog)
 [![GitHub stars](https://img.shields.io/github/stars/mcpHQ/awesome-mcp-servers?style=flat&logo=github)](https://github.com/mcpHQ/awesome-mcp-servers/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/mcpHQ/awesome-mcp-servers)](https://github.com/mcpHQ/awesome-mcp-servers/commits/main)
 [![Link check](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml/badge.svg)](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml)
@@ -40,7 +40,7 @@ If this list saves you time, please ⭐ star the repo. It helps other people fin
 
 - [Official and Reference Servers](#official-and-reference) (11)
 - [Databases and Storage](#databases-and-storage) (13)
-- [Developer Tools and Code Intelligence](#developer-tools-and-code-intelligence) (19)
+- [Developer Tools and Code Intelligence](#developer-tools-and-code-intelligence) (20)
 - [Browsers, Search, and Web Automation](#browsers-search-and-web-automation) (13)
 - [Filesystems and Documents](#filesystems-and-documents) (8)
 - [Cloud and Infrastructure](#cloud-and-infrastructure) (11)
@@ -152,6 +152,8 @@ Repositories, CI/CD, observability, and coding workflows for software teams.
   `mcp` `proxy` `pool` `api-keys` `rate-limiting`
 - **[Postman MCP Server](https://github.com/postmanlabs/postman-mcp-server)** `Official` `TypeScript` — Explore and run Postman collections and API workflows from AI clients.  
   `api` `testing` `http`
+- **[Remote Arc](https://github.com/yaohuangguan/remote-arc)** `Official` `TypeScript` — Connect MCP clients to explicitly paired Windows, macOS, and Linux computers for permission-scoped file, process, and terminal operations.  
+  `remote-access` `filesystem` `terminal` `oauth`
 - **[Semgrep MCP Server](https://github.com/semgrep/semgrep/tree/develop/cli/src/semgrep/mcp)** `Official` `Python` — Run static analysis and security scans on codebases via Semgrep.  
   `security` `sast` `code-quality`
 - **[Sentry MCP Server](https://docs.sentry.io/product/sentry-mcp/)** `Official` `TypeScript` — Investigate errors, releases, and performance issues in Sentry.  
